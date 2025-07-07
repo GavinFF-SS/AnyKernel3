@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=husky
 device.name2=shiba
 supported.versions=15
-supported.patchlevels=2025-03 - 2025-05
+supported.patchlevels=2025-03 - 2025-07
 '; } # end properties
 
 # boot image installation
